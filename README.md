@@ -1,7 +1,11 @@
 # demoBiografieBernersLee
 repository di prova 
 
-Timothy John Berners-Lee nasce l'8 giugno del 1955 a Londra, da Mary Lee Woods e Conway Berners Lee, entrambi impiegati presso la Ferranti Mark 1. Dopo aver frequentato la Sheen Mount Primary School e la Emanuel School, si appassiona all'elettronica; dal 1973 al 1976 segue le lezioni del Queen's College a Oxford, dove si laurea in fisica. Trova quindi lavoro come ingegnere a Poole, presso la compagnia di telecomunicazioni Plessey, e nel 1978 si sposta nel Dorset, alla D.G. Nash, per realizzare programmi per stampanti. Tra il giugno e il dicembre del 1980 collabora con il Cern, dove propone un progetto basato sul concetto di ipertesto finalizzato a facilitare l'aggiornamento e la condivisione di informazioni tra i ricercatori: realizza, dunque, un sistema prototipo chiamato Enquire.
+nascita: 8/06/1955  Londra
+
+Genitori: Mary Lee Woods e Conway Berners Lee
+
+I genitori entrambi impiegati presso la Ferranti Mark 1. Dopo aver frequentato la Sheen Mount Primary School e la Emanuel School, si appassiona all'elettronica; dal 1973 al 1976 segue le lezioni del Queen's College a Oxford, dove si laurea in fisica. Trova quindi lavoro come ingegnere a Poole, presso la compagnia di telecomunicazioni Plessey, e nel 1978 si sposta nel Dorset, alla D.G. Nash, per realizzare programmi per stampanti. Tra il giugno e il dicembre del 1980 collabora con il Cern, dove propone un progetto basato sul concetto di ipertesto finalizzato a facilitare l'aggiornamento e la condivisione di informazioni tra i ricercatori: realizza, dunque, un sistema prototipo chiamato Enquire.
 
 Lasciata la Svizzera, Tim Berners-Lee torna a lavorare in Gran Bretagna, presso la John Poole's Image Computer Systems di Bournemouth; lavora, tra l'altro, su progetti che incrementano la sua esperienza in materia di computer networking. A metà anni Ottanta Berners-Lee torna al Cern: nel giro di pochi anni la struttura diventa il più importante nodo di Internet in Europa, grazie all'intuizione del fisico britannico di coniugare la Rete con gli ipertesti. Egli scrive la propria proposta iniziale nel marzo del 1989, e un anno più tardi, con l'aiuto di Robert Cailliau, dà origine a una versione riveduta che viene accettata dal manager Mike Sendall.
 
